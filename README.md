@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ajloinformatico/ajloinformatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About
+---
+My name is Antonio. Welcome to my GitHub. Here you'll find interesting projects, from web and Android applications to console tools, such as resource optimizers or a custom AI assistant for the terminal.
 
-Here are some ideas to get you started:
+My Stats
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajloinformatico&layout=donut&count_private=true&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=ajloinformatico&show_icons=true&count_private=true&hide_title=true)
+
+***Show more at [infolojo.es](https://wwww.infolojo.es)***
