@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-About
----
 My name is Antonio. Welcome to my GitHub. Here you'll find interesting projects, from web and Android applications to console tools, such as resource optimizers or a custom AI assistant for the terminal.
 
 My Stats
