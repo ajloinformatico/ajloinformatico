@@ -9,4 +9,4 @@ My Stats 📊
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=ajloinformatico&show_icons=true&count_private=true&hide_title=true)
 
-***Show more at [infolojo.es](https://wwww.infolojo.es)***
+***See more at [infolojo.es](https://wwww.infolojo.es)***
