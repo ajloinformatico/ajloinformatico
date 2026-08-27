@@ -2,7 +2,7 @@
 
 My name is Antonio. Welcome to my GitHub. Here you'll find interesting projects, from web and Android applications to console tools, such as resource optimizers or a custom AI assistant for the terminal.
 
-[![My GitFut card](https://gitfut.com/ajloinformatico.png)](https://gitfut.com/ajloinformatico)
+<img width="200" src="https://gitfut.com/ajloinformatico.png" />
 
 My Stats 📊
 ---
