@@ -6,10 +6,9 @@ My name is Antonio. Welcome to my GitHub. Here you'll find interesting projects,
 
 My Stats 📊
 ---
-<!--![](https://komarev.com/ghpvc/?username=ajloinformatico&style=flat)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajloinformatico&layout=donut&count_private=true&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+![Infolojo's GitHub stats](https://github-stats-extended.vercel.app/api?username=ajloinformatico)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=ajloinformatico&show_icons=true&count_private=true&hide_title=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ajloinformatico&langs_count=9)
 
 ***See more at [infolojo.es](https://www.infolojo.es)***
